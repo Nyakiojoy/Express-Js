@@ -1,0 +1,26 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cs31t0rujno0fvdn37i0",
+    "operations": [
+      {
+        "add_column": {
+          "table": "posts",
+          "column": {
+            "pk": false,
+            "name": "author",
+            "type": "text",
+            "unique": false,
+            "comment": "",
+            "nullable": true
+          }
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cs31t0rujno0fvdn37i0",
+  "parent": "mig_cs31sud4rshpd1p6dau0",
+  "schema": "public",
+  "startedAt": "2024-10-09T06:11:16.431839Z"
+}

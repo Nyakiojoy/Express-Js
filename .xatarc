@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Joy-Nyakio-s-workspace-hga7qe.us-east-1.xata.sh/db/my-collen",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
