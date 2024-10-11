@@ -18,7 +18,17 @@ This project is a simple API built using TypeScript, Express, Node.js, and Xata.
    cd building_a_stateful_api
 
 ## Retrieving all data
+![2](https://github.com/user-attachments/assets/00c3df23-e1c0-4b67-93bf-943139d3f4c5)
+
 ## Posting data
+![1](https://github.com/user-attachments/assets/70bdbdad-9e5a-4d50-b613-71e9bf9535b5)
+
+## Get data by Id
+![3](https://github.com/user-attachments/assets/0089af2b-0966-44d5-b93a-3861d2d2493a)
+
 ## Deleting data
+![4](https://github.com/user-attachments/assets/88df3548-a9f6-4d03-b471-11e2c995e8fc)
+
 ## Xata Database
+![image](https://github.com/user-attachments/assets/18a89283-6d2a-4274-9b4a-148bf84ff9b5)
 
